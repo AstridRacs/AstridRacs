@@ -2,9 +2,10 @@
 
 ### About me:
 
+🏳️‍⚧️ - I'm a transgender woman & my pronouns are she/her/hers\
+🌻 - I'm neurodivergen
 🏳️‍🌈 - I’m currently working on a 2SLGBTQIA+ advocacy web project\
-🌱 - I’m currently learning JavaScript & Node.js\
-🏳️‍⚧️ - I'm a transgender neurodivergent woman & my pronouns are she/her/hers\
+🌱 - Learning Software Development at NAIT (1st year)\
 🖥️ - *I use Arch btw*
 
-### From Ev with love <3
+### From Astrid with love <3
